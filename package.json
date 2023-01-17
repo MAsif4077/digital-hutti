@@ -1,0 +1,22 @@
+{
+  "name": "digital-hutti",
+  "version": "1.0.0",
+  "description": "digital hutti from codebatch",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "test"
+  },
+  "author": "codebatch",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "multer": "^1.4.4",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.16",
+    "sequelize": "^6.19.0"
+  }
+}
